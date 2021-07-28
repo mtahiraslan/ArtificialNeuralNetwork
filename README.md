@@ -1,3 +1,3 @@
 # ArtificialNeuralNetwork
 
-Anaconda Spyder üzerinde geliştirmiş olduğum bu projede Opencv , Keras , Pandas , Numpy , Matplotlib ,  kütüphaneleri ile birlikte OpenCv ANN modülü kullanılarak ' reklam_verisi.csv ' veri seti üzerinde Optimizer olarak "Adam","Adamax","Nadam","SGD","RMSprop","Adagrad","Adadelta " kullandığım GridSearch hiperparametresi ile Accuracy değerlerini karşılaştırdığım ve Karmaşıklık Matrisini bulduğum,veri setini eğittikten sonra test ettiğim bir makine öğrenmesi projesidir.
+In this project that I developed on Python, it is a machine learning project where I compare Accuracy values on the ad_data.csv dataset by using machine learning libraries and ANN module and find the Complexity Matrix.
